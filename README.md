@@ -2,7 +2,7 @@
 
 A collection of my solutions to the problems from [Project Euler](https://projecteuler.net/).  
 Some solutions are still work-in-progress as this is an ongoing project for me.  
-All solutions here are implemented in **Python 3.12**.
+All solutions here are implemented in **Python 3.13**.
 
 ## Purpose
 - Practice algorithmic and mathematical problem-solving through Project Euler’s challenges.  
